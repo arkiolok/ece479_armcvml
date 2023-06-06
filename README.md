@@ -1,5 +1,4 @@
-# ece479_armcvml
-DNN Acceleration with Arm CV/ML Library on Raspberry Pi
+# DNN Acceleration with Arm CV/ML Library on Raspberry Pi
 
 This project was the final lab project for the course ECE479: IoT and Cognitive Computing course in UIUC.
 
